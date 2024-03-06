@@ -16,3 +16,14 @@
 .cabecalho__logo{
     order: 1;
 }
+
+.menu{
+    list-style: none;
+    max-height: 100%;
+    width:100% ;
+    height:90px;
+    background-color: #3bfd22;
+    position: absolute;
+    font-family: 'Russo One', Arial, sans-serif;
+    font-size: 39px;
+}
